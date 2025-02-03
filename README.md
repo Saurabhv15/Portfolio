@@ -1,3 +1,4 @@
+# Hi, I am Saurabh Verma
 # 💫 About Me:
 👨‍💻 Machine Learning Enthusiast: Passionate about AI/ML, Data Science, and innovative technologies.<br>📊 Data Scientist: Expertise in data preprocessing, feature engineering, predictive modeling, and visualization.<br>📚 Lifelong Learner: Always exploring new frameworks, libraries, and tools to enhance my skills.<br>🛠️ Technical Skills: Proficient in Python, C++, OpenCV, PyTorch, Scikit-learn and TensorFlow.<br>📈 Data Visualization: Proficient in Power BI, Tableau, and Matplotlib for creating compelling, data-driven stories.<br>🚀 Problem Solver: Adept at building robust machine learning pipelines to solve real-world business problems.<br>🌐 Collaborative Innovator: Active in open-source contributions and enthusiastic about sharing knowledge with the community.
 
